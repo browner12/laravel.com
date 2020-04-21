@@ -1,6 +1,6 @@
 ## Laravel Website
 
-This is the source of the official Laravel.com website.
+This is the source of the **old** Laravel.com website. For the current version please visit [laravel/laravel.com-next](https://github.com/laravel/laravel.com-next).
 
 The site has two main sections. The front / marketing page which is located at `resources/views/marketing.blade.php` and the documentation pages.
 
